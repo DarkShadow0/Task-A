@@ -1,9 +1,4 @@
-# amazon-recommender-system
-recommender system of amazon product ( for final project of CSE544 )
 
-## An Optimized Recommender System from Integrating Multiple Algorithms
- 
-Team members : Sewon Min, Chaofan Han
  
 ### Project Abstract
 This project aims to build an integrated recommender system with versatile features based on the Amazon reviews dataset. This project tries to solve problems confronting present recommender systems such as how to improve the degree of automation, how to make algorithms run faster and more robust with parallel computation.
